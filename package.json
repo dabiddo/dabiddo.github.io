@@ -17,6 +17,7 @@
     "@nuxtjs/vuetify": "^0.4.2",
     "graphql-tag": "^2.9.2",
     "nuxt": "^1.0.0",
+    "push-dir": "^0.4.1",
     "vue-markdown": "^2.2.4"
   },
   "devDependencies": {
