@@ -35,6 +35,19 @@ module.exports = {
       includeNodeModules: true
     },
 
+  generate:{
+    routes:[
+      '/post/new-year-new-blog',
+      '/post/graphcms-blog',
+      '/post/blog-configuration-completed',
+      '/post/layout-fixing',
+      '/post/shifting-a-little-bit-from-golang-to-erlang',
+      '/post/laragon-for-local-dev-enviroment',
+      '/post/little-update',
+      '/post/laravel-and-graphql'
+    ]
+  },
+
   
   build: {
     /*
