@@ -37,6 +37,7 @@ module.exports = {
 
   generate:{
     routes:[
+      '404',
       '/post/new-year-new-blog',
       '/post/graphcms-blog',
       '/post/blog-configuration-completed',
